@@ -1,145 +1,154 @@
 <div align="center">
 
-# Hi, I'm Sanhith Reddy 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sanhith+Reddy+%F0%9F%91%8B;CSE+Student+%7C+Full-Stack+Developer;AI%2FML+%7C+Backend+%7C+Cloud+Explorer;Building+ideas+into+working+software+%F0%9F%9A%80" alt="Animated typing intro">
 
-### CSE Student • Full-Stack Developer • AI/ML Enthusiast
+<br>
 
-I build practical software, AI-powered applications, and backend systems.
-
-<p>
-  <a href="https://github.com/sanhith2117">
-    <img src="https://img.shields.io/badge/GitHub-sanhith2117-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack%20%7C%20Backend-blue?style=for-the-badge" alt="Focus">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SANHITH%20REDDY&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Animated header">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-I'm a Computer Science student who enjoys turning ideas into working software. My interests sit at the intersection of **AI/ML, full-stack development, backend engineering, and cloud technologies**.
+I'm a Computer Science student who enjoys turning ideas into working software.
 
 - 🤖 Building AI-powered applications and intelligent systems
-- 🌐 Developing full-stack applications with modern frontend and backend tools
-- 🧠 Practicing Data Structures & Algorithms with Java
-- 🔎 Exploring RAG, multi-agent systems, and AI-driven digital forensics
+- 🌐 Developing full-stack applications and REST APIs
+- 🧠 Practicing DSA and problem solving with Java
+- 🔎 Exploring RAG, multi-agent systems and digital forensics
 - ☁️ Learning cloud architecture and scalable systems
-- 🛠️ Focused on building projects that solve real problems
 
 ---
 
-## 🚀 What I'm Working On
+## 🧑‍💻 My Tech World
 
-| Area | Focus |
-|---|---|
-| 🤖 AI / ML | Machine Learning, XGBoost, TensorFlow, RAG |
-| 🧩 AI Systems | Multi-Agent AI, Knowledge Graphs, intelligent workflows |
-| 🌐 Full Stack | React, Node.js, Express, FastAPI, REST APIs |
-| 🗄️ Data & Backend | MongoDB, MySQL, PostgreSQL, Redis |
-| ☁️ Cloud | Cloud platforms, containers, scalable services |
-| 💻 DSA | Java, problem solving, algorithms |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,nodejs,express,nestjs,fastapi,tailwind,mongodb,mysql,postgres,redis,docker,git,github,linux&perline=9" alt="Technology stack">
+
+</div>
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🧬 [PhenoPredict](https://github.com/sanhith2117/PhenoPredict)
-Machine-learning based phenotype prediction application combining a web interface, API layer, and trained ML model.
+<table>
+<tr>
+<td width="50%">
 
-**Stack:** React • FastAPI • Python • XGBoost • Redis
+### 🧬 PhenoPredict
+ML-powered phenotype prediction application.
 
-### 🎫 [Garuda — KMIT Gatepass](https://github.com/sanhith2117/garuda-m)
-Student entry and exit management system designed for campus gatepass workflows.
+**React + FastAPI + XGBoost + Redis**
 
-**Stack:** React/Vite • NestJS • SQLite
+<a href="https://github.com/sanhith2117/PhenoPredict">
+<img src="https://img.shields.io/badge/View%20Project-00AEEF?style=for-the-badge&logo=github" alt="PhenoPredict">
+</a>
 
-### 🎓 [KMIT Student Management](https://github.com/sanhith2117/kmit-student-management)
-Student-focused management application for handling academic and institutional workflows.
+</td>
+<td width="50%">
 
-**Stack:** Full Stack • Database • REST APIs
+### 🎫 Garuda
+KMIT student gatepass / entry-exit management system.
 
-### 🧪 [Pheno](https://github.com/sanhith2117/pheno)
-A related project in the phenotype/ML experimentation space.
+**React/Vite + NestJS + SQLite**
 
----
+<a href="https://github.com/sanhith2117/garuda-m">
+<img src="https://img.shields.io/badge/View%20Project-00AEEF?style=for-the-badge&logo=github" alt="Garuda">
+</a>
 
-## 🛠️ Tech Stack
+</td>
+</tr>
 
-### Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+<tr>
+<td>
 
-### Frontend & Backend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
+### 🎓 KMIT Student Management
+Student-focused management application.
 
-### AI / ML & Data
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge&logo=xgboost&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
+<a href="https://github.com/sanhith2117/kmit-student-management">
+<img src="https://img.shields.io/badge/Explore-00AEEF?style=for-the-badge&logo=github" alt="KMIT Student Management">
+</a>
 
-### Databases, DevOps & Tools
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+</td>
+<td>
+
+### 🧪 Pheno
+ML / phenotype experimentation project.
+
+<a href="https://github.com/sanhith2117/pheno">
+<img src="https://img.shields.io/badge/Explore-00AEEF?style=for-the-badge&logo=github" alt="Pheno">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 Live GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanhith2117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith2117&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhith2117&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sanhith2117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith2117&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhith2117&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak">
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution snake">
+
+</div>
 
 ---
 
 ## 🧠 Currently Exploring
 
-`Multi-Agent AI` • `RAG` • `Knowledge Graphs` • `Digital Forensics` • `Cloud Architecture` • `System Design`
+<div align="center">
+
+`Multi-Agent AI`　`RAG`　`Knowledge Graphs`　`Digital Forensics`　`Cloud Architecture`　`System Design`
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/sanhith2117">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:sanhith.m007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## 📊 What I Like Building
 
 <div align="center">
 
-### 💡 Build • Learn • Experiment • Repeat
+**AI Systems**　→　**APIs**　→　**Full-Stack Apps**　→　**Real-World Solutions**
 
 </div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/sanhith2117">
+<img src="https://img.shields.io/badge/GitHub-sanhith2117-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="mailto:sanhith.m007@gmail.com">
+<img src="https://img.shields.io/badge/Email-sanhith.m007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling" alt="Animated footer">
+
+</div>
+
+> 💡 **Build. Learn. Experiment. Repeat.**
+
